@@ -1,0 +1,1 @@
+This is simple project to create a docker image with nginx and certbot pre-installed.
