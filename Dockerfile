@@ -1,4 +1,4 @@
-FROM nginx:1.19.0
+FROM nginx:1.19.2
 
 #install certbot
 RUN apt-get -y update && \
